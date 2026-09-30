@@ -31,4 +31,4 @@ El objetivo del proyecto es demostrar el proceso completo de investigaci√≥n, an√
 ###### Sitio publicado
 El proyecto se encuentra publicado mediante
 Netlify.
-[[comercio. internacional. argentinal(.)]
+[[comercio. internacional. argentinal(https://comercio-internacional-arg.netlify.app/index.html)]
